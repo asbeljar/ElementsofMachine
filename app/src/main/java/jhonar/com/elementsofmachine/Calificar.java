@@ -3,11 +3,11 @@ package jhonar.com.elementsofmachine;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Preg1Simple extends AppCompatActivity {
+public class Calificar extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_preg1_simple);
+        setContentView(R.layout.activity_calificar);
     }
 }
